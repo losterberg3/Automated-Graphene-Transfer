@@ -1,5 +1,6 @@
 # Automated Graphene Transfer
- 
+UCSD MAE Department
+
 The following microcontroller code automates graphene transfer onto silicon dioxide chips. Project members are Charles Bowman, Eric Foss, Joseph Lee, Lars Osterberg and Aditya Visvanath.
 
 # Abstract
